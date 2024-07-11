@@ -6,7 +6,7 @@
                             contact no: 7888130005
                             email:yashodhan@computerhacks.co.in
 - 😄 Pronouns: you need to know it your self by contacting me
-- ⚡ Fun fact:  git hub is parent company is Microsoft
+- ⚡ Fun fact:  git hub parent company is Microsoft
 
 <!---
 yashodhanpatil911/yashodhanpatil911 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
